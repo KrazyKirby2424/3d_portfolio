@@ -56,6 +56,8 @@ import {
     },
   ];
   
+  //too many causes rendering error for computer for some reason
+  //13 balls is the max
   const technologies = [
     {
       name: "Java",
@@ -65,19 +67,22 @@ import {
       name: "C#",
       icon: csharp,
     },
+/*
     {
       name: "C++",
       icon: cplus,
     },
+    */
     {
       name: "Unity",
       icon: unity,
     },
+    
     {
       name: "Blender",
       icon: blender,
     },
-
+    
     {
       name: "HTML 5",
       icon: html,
