@@ -18,6 +18,7 @@ import {
     miax,
     webdevmovies,
     wilty,
+    towerDefense,
     threejs,
 
     github,
@@ -216,6 +217,23 @@ import {
       ],
       image: webdevmovies,
       source_code_link: "https://github.com/KrazyKirby2424/WebDevMovies",
+    },
+    {
+      name: "Tower Defense",
+      description:
+        "Tower Defense game utilizing free assets from the Unity Asset Store.",
+      tags: [
+        {
+          name: "unity",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "C#",
+          color: "green-text-gradient",
+        },
+      ],
+      image: towerDefense,
+      source_code_link: "https://github.com/KrazyKirby2424/TowerDefense",
     },
     {
       name: "WILTY_Prototype",

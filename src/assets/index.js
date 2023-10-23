@@ -27,6 +27,7 @@ import miax from "./company/miaxResizeTransparentLarge.png";
 
 import webdevmovies from "./webdevmovies.png";
 import wilty from "./wilty.png";
+import towerDefense from "./towerDefense.png";
 
 import resume from "./AJ Resume Software Developer.pdf";
 import resumeImg from "./resume.jpg";
@@ -58,6 +59,7 @@ export {
   miax,
   webdevmovies,
   wilty,
+  towerDefense,
   resume,
   resumeImg,
 };
